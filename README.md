@@ -15,7 +15,7 @@ public class Car {
 		this.model=model;
 		this.price=price;
 		this.mileage=mileage;
-	    OwnerName="Sanath";
+	    OwnerName="krithin";
 	    totalcars++;    
 	}
 	Car(String brand, String model,double price,double mileage,String owner)
